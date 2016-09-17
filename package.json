@@ -1,0 +1,33 @@
+{
+  "name": "express-dev-server",
+  "version": "0.1.0",
+  "description": "Development server with express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/express-dev-server.git"
+  },
+  "keywords": [
+    "dev",
+    "server",
+    "express"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/express-dev-server/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/express-dev-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0",
+    "mocha": "^3.0.2"
+  }
+}
