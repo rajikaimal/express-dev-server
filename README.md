@@ -1,6 +1,6 @@
 # express-dev-server [![Build Status](https://travis-ci.org/rajikaimal/express-dev-server.svg?branch=master)](https://travis-ci.org/rajikaimal/express-dev-server)
 
-Development server with express.js
+Global development server with express.js
 
 ## Install
 
@@ -14,5 +14,6 @@ npm install -g express-dev-server
 express-dev-server 3000 src
 ```
 
-## Usage
+## License
 
+MIT © [Rajika Imal](https://rajikaimal.github.io)
