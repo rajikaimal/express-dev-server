@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin": {
+    "express-dev-server": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rajikaimal/express-dev-server.git"
