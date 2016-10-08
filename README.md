@@ -11,8 +11,13 @@ npm install -g express-dev-server
 ## Usage
 
 ```
-express-dev-server 3000 src
+$ express-dev-server 3000 src
 ```
+
+## Arguments
+
+- `port` - Port number
+- `public` - Directory to be served from express-dev-server
 
 ## License
 
