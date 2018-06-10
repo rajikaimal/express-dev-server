@@ -1,4 +1,4 @@
-# express-dev-server [![Build Status](https://travis-ci.org/rajikaimal/express-dev-server.svg?branch=master)](https://travis-ci.org/rajikaimal/express-dev-server)
+# express-dev-server [![Build Status](https://travis-ci.org/rajikaimal/express-dev-server.svg?branch=master)](https://travis-ci.org/rajikaimal/express-dev-server) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/express-dev-server.svg)](https://greenkeeper.io/)
 
 Global development server with express.js
 
